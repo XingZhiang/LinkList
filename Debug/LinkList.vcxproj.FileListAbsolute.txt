@@ -1,0 +1,2 @@
+D:\Project\C++\vs2019\LinkList\Debug\LinkList.exe
+D:\Project\C++\vs2019\LinkList\Debug\LinkList.pdb
